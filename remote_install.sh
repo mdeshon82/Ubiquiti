@@ -35,16 +35,12 @@ GITHUB_REPOSITORY="unifi-utilities/unifios-utilities"
 
 header() {
   cat <<EOF
-  ______             _     _     ____              _      _    _ _____  __  __ 
- |  ____|           | |   | |   |  _ \            | |    | |  | |  __ \|  \/  |
- | |__ ___  _ __ ___| |__ | |_  | |_) | __ _ _ __ | | __ | |  | | |  | | \  / |
- |  __/ _ \| '__/ __| '_ \| __| |  _ < / _` | '_ \| |/ / | |  | | |  | | |\/| |
- | | | (_) | | | (__| | | | |_  | |_) | (_| | | | |   <  | |__| | |__| | |  | |
- |_|  \___/|_|  \___|_| |_|\__| |____/ \__,_|_| |_|_|\_\  \____/|_____/|_|  |_|
+UDM INSTALLER
+
  by: Matt DeShon                                                                              
 
 
- This script will setup the Dream Machine Pro for the Forcht Bank
+ This script will setup the Dream Machine Pro for the ****
  Production Network. 
 
 EOF
